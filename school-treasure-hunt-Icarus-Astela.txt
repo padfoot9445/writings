@@ -210,7 +210,7 @@ Spike waited with baited breath. He had - while there was nothing to do - traine
 The Manticore was twice the size of the Vengance. Surely - even with whatever inane technology the Vengance had - that would be enough?
 
 "We've hit their other cannon - they're accelerating!"
-Spike looked up. The Vengeance was already at light-speed, so accelerating would put it faster-than-light - and any schoolchild could tell you that going FTL this close to a gravity well was impossible. He chuckled, derisively - after today, likely nothing would surprise him.
+Spike looked up. The Vengeance was already at light-speed, so accelerating would put it faster-than-light - and any schoolchild could tell you that going FTL this close to a gravity well was impossible. He chuckled, derisively[dryly] - after today, likely nothing would surprise him.
 "Damage?"
 "Damage to bow torpedo bay, and starboard cannon. We've evacuated the front section of the ship."
 
@@ -243,8 +243,63 @@ The mines ripped it apart. After it had stopped as a result of the opposing forc
 The bridge-crew stared in shock and disbelief.
 
 Finally, Admiral {astelan-char-last-name} spoke.
-<Send a science-crew to recover whatever's left. Focus on the engines.>
+<Send a science-crew to recover whatever's left - if there's anything more than debris, which is doubtful - and have the {carrier-name} clear the minefield.>
 
+*
+Spike
+Two-and-a-half hours later, the ISS Manticore - damaged, but alive - warped into the Astelans' system.
 
+"Captain, the Astelans - be careful. We don't want to start another war."
+
+"I know, Commander, but we have as much claim to the wreckage as they do - arguably more. Besides, I'm not leaving until i've seen those cannons and those engines. How's the ship?"
+
+"Repairs are underway, sir. And, we've uncovered some information about whatever the Vengeance shot at us."
+
+Spike looked up, surprised.
+"Oh?"
+"Damage control uncovered some sort of corrosive on the bulkhead; nothing we've ever seen before. It appears to be psionic, sir - on section ten, for instance, they couldn't even get close to the breach: they all felt too dizzy to. But what samples we have indicate an extremely powerful corrosive, somehow able to damage things it isn't even physically touching; it only requires that the item itself is physically connected to another material it is touching. We've ejected most of it now, sir; it simply wasn't safe to store in contact with even the air - but we've kept a few samples in one of the antimatter-contaiment chambers."
+
+Spike gave him a slight, warm smile.
+"Good job, Commander."
+He smiled back.
+"Thank you, sir."
+"Hail the Astelans, and announce our intention to participate in the salvage."
+Leaning back, Spike braced himself for the response.
+
+{astelan-char-last-name}'s response came quickly.
+
+With a faint glow from their projection-dish, a psionic wave rolled out from the Astelan ship, AS {astelan-ship-name}. It intersected the Manticore, filling everyone in its path with a slight sense of warmth. Methodically, it leapt from mind-to-mind, searching for Captain Spike.
+
+Admiral {astelan-char-last-name}'s response echoed in Spike's head, making him feel a sense of warmth - but yet, at the same time, a sense of being small: a sense of being but a cog in the universe's workings; a pawn in some grand game of chess.
+
+He fought the feeling off.
+
+<You are welcome to...participate, Captain - but I think you'll find we've got most of the things already.> /s
+
+Idiots.
+
+"Commander, assemble a science-team. There'll be no need for security precautions - as much as our friends/s might not want us to find anything, they don't want a war either. For now, we're safe here."
+*
+Spike - two hours later.
+
+Captain Spike in his quarters, nursing a cup of coffee. He had been awake for nearly twelve hours now, and about to go to bed - but he wanted to see what came of the salvage-team.
+
+The doorbell rung. Spike looked over at the clock: Seven fifty-five. Right on time.
+With a wave of his hand, he opened the door.
+"Commander {xo-name}! Come in. How are the repairs - and the salvage -  going?"
+
+"We've successfully restored the outer-hull to airtight condition. As for the Vengeance, like the Astelans said, not much was left. But, we did recover part of their navigation log."
+
+"Well - what does it say?"
+
+"That's the thing, sir. Its encrypted - probably why the Astelans didn't take it as well. They probably thought it was corrupted, but Ensign Jones recognized the pattern from one of our classified files"
+
+Spike chuckled, dryly.
+"I guess all of the hours he spent daydreaming, and reading up on old missions paid off."
+
+"I guess so."
+
+Spike leaned forwards.
+"Do you think we'll get anything else, commander?"
 
 oswald font
