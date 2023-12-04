@@ -48,7 +48,7 @@ He turned to his science officer(she feared nothing, and was always commited to 
 <{Astelan-science-officer-name} - what the hell is going on?>
 
 She snapped to attention - again, odd: [CHANGE WORDING: in an effort to reduce tension when he was a new captain, he had made it so that attention was not neccesary]
-<Sir, there is an inbound vessel. Initial measurements put its speed relative to this system’s sun at an approximate [very high speed], and we’ve - well, we’ve just confirmed it is travelling at [more precise vh speed].>
+<Sir, there is an inbound vessel. Initial measurements put its speed at an approximate [very high speed], and we’ve - well, we’ve just confirmed it is travelling at [more precise vh speed].>
 
 <Impossible - even we do not have ships that fast - let alone the rest of the cluster. The sensors must be broken!>
 
@@ -63,7 +63,7 @@ He took a deep breath.
 Coffee, being the exotic Icaran drink that it was, was expensive. But if he ever deserved coffee, it was now.
 
 He paced, trying to clear his head. {ensign-name} brought him the Coffee; he drank it.
-<Contact the {Carrier-name}. Ask them to verify and deploy scouts, deploy a level-two screening field with a tempoary screen and blockade on our position; and then prepare to retreat to standard ready positions. Communications, attempt a hail.>
+<Contact the {Carrier-name}. Ask them to verify and deploy scouts, deploy a level-two screening field with a tempoary screen and minefield blockade on our position; and then prepare to retreat to standard ready positions.>
 
 *
 
@@ -78,7 +78,7 @@ He paced, trying to clear his head. {ensign-name} brought him the Coffee; he dra
 
 Chapter Two - two hours later - spike.
 
-Captain Des Spike - now dressed in full armor - strode towards the automatic doors of the briefing room.
+Captain Spike - now dressed in full armor - strode towards the automatic doors of the briefing room.
 
 He still couldn’t believe what was happening. Yes - the frigate being attacked was regrettable, but for once he was where the action was; for once, he had something important to do - even if it was a simple anti-piracy one.
 
@@ -142,9 +142,108 @@ The ball of plasma twinkled off into the distance.
 With another(louder) rumble, the Manticore’s main cannons - twin two-hundred milimeters - fired, leaving behind yet another faint cloud of smoke. 
 
 Simultaneously, two streaks of scarlet light blasted out from the Vengeance’s
-cannons.
+cannons. They rushed towards the Manticore, and with a sickening - almost corrisive - crunch, passed through the Manticore's bubble-sheilding as if it did not exist, and impacted directly on the symbiotic sheild with a loud rumble[clang?].
+
+"Impact on Section Ten, dorsal!" cried the Lieutenant manning the tactical station.
+
+"Damage?"
+
+"Structural capability on the plating reduced to roughly sixty percent, sir!"
+
+Spike took a deep breath. Sixty was certainly lower than anything he had ever seen, but not impossible. There was still a chance.
+
+"Fire all tubes; spread: delta!"
+
+With a clunk the doors protecting the torpedo bays opened, and within seconds the missiles and torpedoes poured out. Hydra-type missiles acted as decoys;  Scorpion-cluster munitions deployed their charges in beautiful concentric patterns, sheilding the Impact torpedoes from any interceptor fire; and...
+
+"Hit!"
+The room erupted in cheers.
+
+Spike exhaled, smiling. Time to finish them off.
+
+Suddenly, an alarm sounded.
+
+"Hull breach, Section Ten, dorsal!"
+
+"Lieutenant, I thought you said there was still about sixty percent Structrual integrity?"
+
+"There...well, there was!"
+
+"Nevermind. Seal off the breach, and fire another spread. Maintain a constant bombardment with main cannons."
+
+"Yes, sir."
+
+The missiles fired, silently this time. Spike let the constant thump of the cannons drown out all the other noise.
+
+What happened to the remaining sixty percent?
+
+Another flash of scarlet; another sickening crunch. Spike looked up.
+
+"Sir, they hit us in the same spot!"
+
+Impossble. Completely absurd. Not even Astelan ships - let alone a {pirate-faction} one - were so precise at the edge of engagement range. No, that was just sheer luck - it had to be.
+
+"Well?"
+
+"Ten dead, sir. Internal bulkheads 120-B and 121-C completely vaporised; major structural damage to sections ten and eleven; and structural integrity of deck ten is compromised."
+
+"Conn, rotate us twelve degrees to starboard - hopefully, that should stop them from fireing at that same spot again. What about the Vengeance?"
+
+"We're nearly through her port shielding, sir."
+
+"Conn, what about our distance?"
+
+"Distance: {distance}. We're closing at {dv}."
+
+"Tactical, status?"
+
+"Hold on - hit, sir! We've destroyed their portside cannon! As for damage: We've lost our secondary cannon. We've also recieved damage to sections twelve and five - but for now, its minimal."
+
+"Target the other cannon with our cannons. Keep the missiles aimed at port - they should do some proper damage now that there aren't any shields in the way. "
+
+Another flash of scarlet; another rumble; another who-knows-how-many dead. His heart ached at the thought of those loyal officers dying; at the thought of his ship being hurt by pirates - but they were close to victory. He could feel it.
+
+"We've taken out their starboard sheilds!"
+
+Spike waited with baited breath. He had - while there was nothing to do - trained his officers; implemented plans and taught them how to react. Now, there was very little he could do except sit, wait, and hope that their training was enough. The intercom was ablaze with voices, ordering damage-control to various compartments.
+
+The Manticore was twice the size of the Vengance. Surely - even with whatever inane technology the Vengance had - that would be enough?
+
+"We've hit their other cannon - they're accelerating!"
+Spike looked up. The Vengeance was already at light-speed, so accelerating would put it faster-than-light - and any schoolchild could tell you that going FTL this close to a gravity well was impossible. He chuckled, derisively - after today, likely nothing would surprise him.
+"Damage?"
+"Damage to bow torpedo bay, and starboard cannon. We've evacuated the front section of the ship."
+
+"Keep firing," Spike replied. "Plot a pursuit course - we're going after them."
 
 
+*
+
+{astelan-char-name}
+
+<Admiral, the vessel is accelerating. It appears to be damaged. We've also detected an Icaran ship pursuing it - the ISS Manticore, sir. It is also heavily damaged.>
+
+<But the Manticore is - >
+<Twice its size, yes, sir.>
+<Is it still headed for us?>
+<Yes, sir. It doesn't seem to have detected us yet - perhaps its sensors were damaged in the battle.>
+<Charge the spinal battery, and have the {Carrier-name} deploy a combat-wing. I want to know what the hell that ship's engines look like.>
+
+Chapter Four - One hour later.
+
+{astelan-char-name}
+The energy on the bridge was tense. Each and every officer felt nervous - and, this time, {astelan-char-last-name} joined them in that nervousness. Whatever that ship was, it was powerful - the state of the Manticore proved that.
+
+<Admiral, the vessel is entering the system now.>
+
+The ball of plasma materialized; the rift appeared. And to the delight of every one of Admiral {astelan-char-last-name}'s crew, the Vengeance flew - at top speed - straight into the Astelan minefield. 
+
+The mines ripped it apart. After it had stopped as a result of the opposing force of the mine-explosions(taking an incredible fifteen twenty-kilogram fusion mines to do so), there was nothing left but debris.
+
+The bridge-crew stared in shock and disbelief.
+
+Finally, Admiral {astelan-char-last-name} spoke.
+<Send a science-crew to recover whatever's left. Focus on the engines.>
 
 
 
