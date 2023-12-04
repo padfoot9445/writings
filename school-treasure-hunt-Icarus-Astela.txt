@@ -1,10 +1,8 @@
 
 
-
-
 PROLOGUE
 
-Sitting upon the bridge of the ISS Manticore, Captain Des Spike mindlessly scrolled past the lastest headlines.
+Sitting upon the bridge of the ISS Manticore, Captain Des Spike mindlessly scrolled past the latest headlines.
 
 Captain.
 
@@ -16,7 +14,7 @@ In the Cotton massacres, he stood up to his commanding officer - one Admiral Ale
 
 In the years since, he had stood idly by as he watched other officers - some four or five years junior to him - get promoted to flag-rank; get command of various fleets, and doing what he should have been doing - going out there and exploring. But time and again he was passed over. //remove this maybe?
 
-No matter. He was doing his job (charting the {system-name} nebula), and doing it well - even if that did mean reading sensationallist articles about how "antimatter usage kills"; how there were(for the second time this month) futile protests about military reform; or how warp drive “destabilizes your neuronic energy”.
+No matter. He was doing his job (charting the {system-name} nebula), and doing it well - even if that did mean reading sensationalist articles about how "antimatter usage kills"; how there were(for the second time this month) futile protests about military reform; or how warp drive “destabilises your neuronic energy”.
 
 Leaning back, he sighed in boredom, and closed his eyes.
 
@@ -24,7 +22,7 @@ Leaning back, he sighed in boredom, and closed his eyes.
 *
 
 Just over three-hundred light-years away, Admiral Alasdair Nocturne of the Astelans was celebrating his promotion aboard the AS Gibraltar.
-{IMPORTANT TODO: decribe celebration. He feels tired at the end.}
+{IMPORTANT TODO: describe celebration. He feels tired at the end.}
 
 The comms beeped, jolting him from his half-sleep. He groaned, and with great effort peeled open an eyelid - which saw that his friend, Santino, was going to get it.
 
@@ -32,7 +30,7 @@ The eyelid fell shut.
 
 
 CHAPTER ONE
-Six hours later, Admiral Nocturne stepped onto the bridge, dimming his visor as he did(he had a head-splitting migrane) - and was greeted by complete chaos.
+Six hours later, Admiral Nocturne stepped onto the bridge, dimming his visor as he did(he had a head-splitting migraine) - and was greeted by complete chaos.
 
 Clearly, something had happened. He remembered - vaguely - that someone had tried to reach him last night. But - no, that simply couldn’t be related - they would have tried harder...wouldn’t they?
 
@@ -40,10 +38,11 @@ He took a deep breath, and strode calmly to the center of the bridge.
 
 <Report.>
 
-The bridge fell silent. In every person’s mind, he sensed fear, nervousness, and a sense of disbelief; a sense of hoping that someone else would speak up.
+The bridge fell silent. 
+In every person’s mind, he sensed fear, nervousness, and a sense of disbelief; a sense of hoping that someone else would speak up.
 
 Of course, no-one did.
-//TODO: change from here?
+//TODO: change from here; this is absolute rubbish
 He turned to his science officer(she feared nothing, and was always commited to integrity and the scientific truth), but to his surprise he found that even she was uneasy.
 
 <{Astelan-science-officer-name} - what the hell is going on?>
@@ -61,24 +60,26 @@ Factor one-hundred was impossible. He knew that - everyone knew that. No current
 Nonetheless, it seemed that the impossible - in this case - was possible.
 
 Taking a deep breath, he turned to the Yeoman, Ensign Undrek.
-<Ensign Undrek, bring me a - >What was the word? Ah, yes - <Coffee, please.>
+<Ensign Undrek, bring me a - >What was the word?<Coffee, please.>
 Coffee, being the exotic Icaran drink that it was, was expensive. But if he ever deserved coffee, it was now.
 
 He paced, trying to clear his head. Undrek brought him the Coffee; he drank it.
-<Contact the Phoenix. Ask them to verify and deploy scouts, deploy a level-two screening field with a tempoary screen and minefield blockade on our position; and then prepare to retreat to standard ready positions.>
+<Contact the Phoenix. Ask them to verify and deploy scouts, deploy a level-two screening field with a temporary screen and minefield blockade on our position; and then prepare to retreat to standard ready positions.>
 
 *
+Spike
 
-“Captain Spike, we’re recieving an urgent inbound message.”
+“Captain Spike, we’re receiving an urgent inbound message.”
 
 “Put it on.”
 
-“It’s text-only, sir. Its from one of our frigates, the Bucaneer, which was escorting a cargo convoy. They’ve been attacked by a Juthan ship. Appearantly, it is headed in our direction at - and I quote - ‘Impossible speeds’, and Bucaneer requests we intercept it.”
+“It’s text-only, sir. Its from one of our frigates; ISS Buccaneer, which was escorting a cargo convoy. They’ve been attacked by a Juthan ship. Apparently, it is headed in our direction at - and I quote - ‘Impossible speeds’, and Buccaneer requests we intercept it.”
 
 “Reply with acknowledgement. Conn, sound General Quarters and plot an intercept course. Tactical, work with [replace: Astrology] and prepare a brief of the area of intercept and the enemy ship.“
 
 
-Chapter Two - two hours later - spike.
+Chapter Two
+Two Hours Later
 
 Captain Spike - now dressed in full armor - strode towards the automatic doors of the briefing room.
 
@@ -88,7 +89,7 @@ As he stepped towards the doors, he stretched out his hand - the microchipped ga
 
 “Report.”
 
-His executive officer, Commander David Horne, replied. “Captain, we have confirmed the vessel to be similar to a Galicio-class raider. Assuming we depart at maximum speed in one hour, we will be intercepting them in quardrant five of this system at four O' clock - three hours later - which is ideal: it is devoid of asteroids. We have also confirmed the Bucaneer’s report of the vessel travelling at an ‘impossible speed’: It is - in-fact - travelling at appoximately Factor one-hundred.”
+His executive officer, Commander David Horne, replied. “Captain, we have confirmed the vessel to be similar to a Galicio-class raider. Assuming we depart at maximum speed in one hour, we will be intercepting them in quadrant five of this system at four O' clock - three hours later - which is ideal: it is devoid of asteroids. We have also confirmed the Buccaneer's report of the vessel travelling at an ‘impossible speed’: It is - in-fact - travelling at approximately factor one-hundred.”
 
 “But…who even has engines of this class?”
 
@@ -99,7 +100,7 @@ The room fell silent, as the officers gathered waited for that information to si
 That took a while. But, eventually, he spoke.
 
 “Commander, proceed with the departure in…” Spike checked his watch. “Twenty-four minutes. Engage cloak and sound yellow alert, and inform me when we arrive.
-Turning on his heel, he left the room, grinning to himself - finally, something exiting was happening!
+Turning on his heel, he left the room, grinning to himself - finally, something exciting was happening!
 *One hour and twenty-four minutes later
 Captain Spike - now fully awake and refreshed - sat on the bridge, staring(along with everyone else)at the red dot darting towards them, as Horne gave updates on its ETA.
 
@@ -122,9 +123,9 @@ Captain Spike - now fully awake and refreshed - sat on the bridge, staring(along
 
 On the Manticore, every man and woman - whether officer, crewman, or civilian - waited with baited breath, as a bright-blue dot of plasma appeared in-front of the ship.
 
-The dot grew, expanding first into a ball, then a rift - and out of the rift came the Galico-class vessel, Vengeance.
+The dot grew, expanding first into a ball, then a rift - and out of the rift came the Galico-class vessel Vengeance.
 
-Vengance, Spike thought to himself. That was certainly an appropiate name.
+Vengeance, Spike thought to himself. Vengeance was certainly an appropriate name for what was about to happen.
 
 Tapping into his years of training, Spike began to give orders.
 
@@ -132,23 +133,23 @@ Tapping into his years of training, Spike began to give orders.
 
 “No response, sir.”
 
-“Fire a warning-shot, one-hundred milimeters.”
+“Fire a warning-shot, one-hundred millimetres.”
 
-With a low rumble, and a flash of blue, a swirling ball of plasma one-hundred milimeters in diameter erupted from the Manticore’s secondary cannon, leaving a faint trail of blue gas behind as it flew towards the Vengeance.
+With a low rumble, and a flash of blue, a swirling ball of plasma one-hundred millimetres in diameter erupted from the Manticore’s secondary cannon, leaving a faint trail of blue gas behind as it flew towards the Vengeance.
 
-The Vengance’s engines pulsed. With a flash of red light, it began to accelerate.
+The Vengeance's engines pulsed. With a flash of red light, it began to accelerate.
 
 The ball of plasma twinkled off into the distance.
 
-“Captain, the Vengance is charging weapons. Permission to fire?”
+“Captain, the Vengeance is charging weapons. Permission to fire?”
 “Granted. Fire main cannons, and engage full reverse thrust.”
 
-With another(louder) rumble, the Manticore’s main cannons - twin two-hundred milimeters - fired, leaving behind yet another faint cloud of smoke. 
+With another(louder) rumble, the Manticore’s main cannons - twin two-hundred millimetres - fired, leaving behind yet another faint cloud of smoke. 
 
-Simultaneously, two streaks of scarlet light blasted out from the Vengeance’s
-cannons. They rushed towards the Manticore, and with a sickening - almost corrisive - crunch, passed through the Manticore's bubble-sheilding as if it did not exist, and impacted directly on the symbiotic sheild with a loud rumble[clang?].
+Simultaneously, two streaks of scarlet light blasted out from Vengeance’s
+cannons. They rushed towards the Manticore, and with a sickening - almost corrosive - crunch, passed through her bubble-shielding as if it did not exist, and impacted directly on the symbiotic shield with a loud rumble[clang?].
 
-"Impact on Section Ten, dorsal!" cried the Lieutenant manning the tactical station.
+"Impact on Section Ten, dorsal!" cried the lieutenant manning the tactical station.
 
 "Damage?"
 
@@ -156,9 +157,9 @@ cannons. They rushed towards the Manticore, and with a sickening - almost corris
 
 Spike took a deep breath. Sixty was certainly lower than anything he had ever seen, but not impossible. There was still a chance.
 
-"Fire all tubes; spread: delta!"
+"Fire all tubes; spread delta!"
 
-With a clunk the doors protecting the torpedo bays opened, and within seconds the missiles and torpedoes poured out. Hydra-type missiles acted as decoys;  Scorpion-cluster munitions deployed their charges in beautiful concentric patterns, sheilding the Impact torpedoes from any interceptor fire; and...
+With a clunk the doors protecting the torpedo bays opened, and within seconds the missiles and torpedoes poured out. Hydra-type missiles acted as decoys;  Scorpion-cluster munitions deployed their charges in beautiful concentric patterns, shielding the Impact torpedoes from any interceptor fire; and...
 
 "Hit!"
 The room erupted in cheers.
@@ -169,11 +170,11 @@ Suddenly, an alarm sounded.
 
 "Hull breach, Section Ten, dorsal!"
 
-"Lieutenant, I thought you said there was still about sixty percent Structrual integrity?"
+"Lieutenant, I thought you said there was still about sixty percent structural integrity?"
 
 "There...well, there was!"
 
-"Nevermind. Seal off the breach, and fire another spread. Maintain a constant bombardment with main cannons."
+"Never-mind. Seal off the breach, and fire another spread. Maintain a constant bombardment with main cannons."
 
 "Yes, sir."
 
@@ -185,13 +186,13 @@ Another flash of scarlet; another sickening crunch. Spike looked up.
 
 "Sir, they hit us in the same spot!"
 
-Impossble. Completely absurd. Not even Astelan ships - let alone a Juthan one - were so precise at the edge of engagement range. No, that was just sheer luck - it had to be.
+Impossible. Completely absurd. Not even Astelan ships - let alone a Juthan one - were so precise at the edge of engagement range. No, that was just sheer luck - it had to be.
 
 "Well?"
 
 "Ten dead, sir. Internal bulkheads 120-B and 121-C completely vaporised; major structural damage to sections ten and eleven; and structural integrity of deck ten is compromised."
 
-"Conn, rotate us twelve degrees to starboard - hopefully, that should stop them from fireing at that same spot again. What about the Vengeance?"
+"Conn, rotate us twelve degrees to starboard - hopefully, that should stop them from firing at that same spot again. What about the Vengeance?"
 
 "We're nearly through her port shielding, sir."
 
@@ -201,29 +202,30 @@ Impossble. Completely absurd. Not even Astelan ships - let alone a Juthan one - 
 
 "Tactical, status?"
 
-"Hold on - hit, sir! We've destroyed their portside cannon! As for damage: We've lost our secondary cannon. We've also recieved damage to sections twelve and five - but for now, its minimal."
+"Hold on - hit, sir! We've destroyed their portside cannon! As for damage: We've lost our secondary cannon. We've also received damage to sections twelve and five - but for now, it's minimal."
 
 "Target the other cannon with our cannons. Keep the missiles aimed at port - they should do some proper damage now that there aren't any shields in the way. "
 
 Another flash of scarlet; another rumble; another who-knows-how-many dead. His heart ached at the thought of those loyal officers dying; at the thought of his ship being hurt by pirates - but they were close to victory. He could feel it.
 
-"We've taken out their starboard sheilds!"
+"We've taken out their starboard shields!"
 
 Spike waited with baited breath. He had - while there was nothing to do - trained his officers; implemented plans and taught them how to react. Now, there was very little he could do except sit, wait, and hope that their training was enough. The intercom was ablaze with voices, ordering damage-control to various compartments.
 
-The Manticore was twice the size of the Vengance. Surely - even with whatever inane technology the Vengance had - that would be enough?
+ISS Manticore was twice the size of Vengeance. Surely - even with whatever inane technology the Vengeance had - that would be enough?
 
 "We've hit their other cannon - they're accelerating!"
-Spike looked up. The Vengeance was already at light-speed, so accelerating would put it faster-than-light - and any schoolchild could tell you that going FTL this close to a gravity well was impossible. He chuckled, derisively[dryly] - after today, likely nothing would surprise him.
+Spike looked up. The Vengeance was already at light-speed, so accelerating would put it faster-than-light - and any school-child could tell you that going FTL this close to a gravity well was impossible. He chuckled, derisively[dryly?] - after today, likely nothing would surprise him.
 "Damage?"
-"Damage to bow torpedo bay, and starboard cannon. We've evacuated the front section of the ship."
+"Damage to the bow torpedo bay, and starboard cannon. We've evacuated the front section of the ship."
 
 "Keep firing," Spike replied. "Plot a pursuit course - we're going after them."
 
 
+
 *
 
-Alasdair Nocturne
+ Nocturne
 
 <Admiral, the vessel is accelerating. It appears to be damaged. We've also detected an Icaran ship pursuing it - the ISS Manticore, sir. It is also heavily damaged.>
 
@@ -233,8 +235,10 @@ Alasdair Nocturne
 <Yes, sir. It doesn't seem to have detected us yet - perhaps its sensors were damaged in the battle.>
 <Charge the spinal battery, and have the Phoenix deploy a combat-wing. I want to know what the hell that ship's engines look like.>
 
-Chapter Four - One hour later.
-Nocturne
+Chapter Four
+
+One hour later
+
 The energy on the bridge was tense. Each and every officer felt nervous - and, this time, Nocturne joined them in that nervousness. Whatever that ship was, it was powerful - the state of the Manticore proved that.
 
 <Admiral, the vessel is entering the system now.>
@@ -246,21 +250,23 @@ The mines ripped it apart. After it had stopped as a result of the opposing forc
 The bridge-crew stared in shock and disbelief.
 
 Finally, Admiral Nocturne spoke.
-<Send a science-crew to recover whatever's left - if there's anything more than debris, which is doubtful - and have the Phoenix clear the minefield.>
+<Send a science-crew to recover whatever's left - if there's anything more than debris, which is…doubtful - and have the Phoenix clear the minefield.>
+
 
 *
 Spike
+
 Two-and-a-half hours later, the ISS Manticore - damaged, but alive - warped into the Astelans' system.
 
 "Captain, the Astelans - be careful. We don't want to start another war."
 
-"I know, Commander, but we have as much claim to the wreckage as they do - arguably more. Besides, I'm not leaving until i've seen those cannons and those engines. How's the ship?"
+"I know, Commander, but we have as much claim to the wreckage as they do - arguably more. Besides, I'm not leaving until I've seen those cannons and those engines. How's the ship?"
 
-"Repairs are underway, sir. And, we've uncovered some information about whatever the Vengeance shot at us."
+"Repairs are underway, sir. And, sir - we've uncovered some information about whatever the Vengeance shot at us."
 
 Spike looked up, surprised.
 "Oh?"
-"Damage control uncovered some sort of corrosive on the bulkhead; nothing we've ever seen before. It appears to be psionic, sir - on section ten, for instance, they couldn't even get close to the breach: they all felt too dizzy to. But what samples we have indicate an extremely powerful corrosive, somehow able to damage things it isn't even physically touching; it only requires that the item itself is physically connected to another material it is touching. We've ejected most of it now, sir; it simply wasn't safe to store in contact with even the air - but we've kept a few samples in one of the antimatter-contaiment chambers."
+"Damage control uncovered some sort of corrosive on the bulkhead; nothing we've ever seen before. It appears to be psionic, sir - on section ten, for instance, they couldn't even get close to the breach: they all felt too dizzy to do so. But what samples we have indicate an extremely powerful corrosive, somehow able to damage things it isn't even physically touching; it only requires that the item itself is physically connected to another material it is touching. We've ejected most of it now, sir; it simply wasn't safe to store in contact with even the air - but we've kept a few samples in one of the antimatter-containment chambers."
 
 Spike gave him a slight, warm smile.
 "Good job, Commander."
@@ -277,17 +283,20 @@ Admiral Nocturne's response echoed in Spike's head, making him feel a sense of w
 
 He fought the feeling off.
 
-<You are welcome to...participate, Captain - but I think you'll find we've got most of the things already.> /s
+<You are welcome to...participate, Captain - but I think you'll find we've got most of the things already.> 
 
-Idiots.
+Assholes.
 
-"Commander, assemble a science-team. There'll be no need for security precautions - as much as our friends/s might not want us to find anything, they don't want a war either. For now, we're safe here."
+"Commander, assemble a science-team. There'll be no need for security precautions - as much as our friends might not want us to find anything, they don't want a war either. For now, we're safe here."
+
 *
-Spike - two hours later.
+Two hours later.
 
-Captain Spike in his quarters, nursing a cup of coffee. He had been awake for nearly twelve hours now, and about to go to bed - but he wanted to see what came of the salvage-team.
 
-The doorbell rung. Spike looked over at the clock: Seven fifty-five. Right on time.
+Captain Spike sat in his quarters, nursing a cup of coffee. He had been awake for nearly twelve hours now, and about to go to bed - but he wanted to see what came of the salvage-team.
+
+The doorbell rang. Spike looked over at the clock: Seven fifty-five. Right on time.
+
 With a wave of his hand, he opened the door.
 "Commander Horne! Come in. How are the repairs - and the salvage -  going?"
 
@@ -295,10 +304,10 @@ With a wave of his hand, he opened the door.
 
 "Well - what does it say?"
 
-"That's the thing, sir. Its encrypted - probably why the Astelans didn't take it as well. They probably thought it was corrupted, but Ensign Jones recognized the pattern from one of our classified files"
+"That's the thing, sir. It's encrypted - probably why the Astelans didn't take it as well; they probably thought it was corrupted. But Ensign Jones recognized the pattern from one of our classified files."
 
 Spike chuckled, dryly.
-"I guess all of the hours he spent daydreaming, and reading up on old missions paid off."
+"I guess..all of the hours he spent daydreaming and reading up on old missions paid off."
 
 "I guess so."
 
@@ -306,3 +315,5 @@ Spike leaned forwards.
 "Do you think we'll get anything else, commander?"
 
 oswald font
+
+
