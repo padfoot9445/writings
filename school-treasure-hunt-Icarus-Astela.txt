@@ -2,60 +2,67 @@
 
 PROLOGUE
 
+On the bridge of the ISS Manticore sat a man, blonde-haired, muscular, and dressed in a blue shirt and black trousers.
+
+That man was, of course, the Captain - Des Spike - and that, of course, was technically against regulations - any officer on duty on a warship should be in full power-armor, ready to respond to any incident, or attack.
+
+But Spike didn’t see the point of that here. Here, afterall, was in the middle of nowhere; firmly in the centre of a giant nebula. Icarus was not at war, and no pirate-ship would be so brainless as to attack an Icaran Super-cruiser. There was no action here, no incidents; merely mindless noting of sensor-data and waiting for reports, desperately searching for anything to pass the time(right now, his method-of-choice was to read the headlines and guess what they actually referred to.)
+
+Thirty years ago, he would have given anything to be in this position - sitting in leather armchairs on the spacious dome-shaped bridge of a super-cruiser, in-command and giving orders - but that was…
+
+
 Sitting upon the bridge of the ISS Manticore, Captain Des Spike mindlessly scrolled past the latest headlines.
 
-Captain.
+Thirty years ago, he would have given anything to be in this position - sitting in leather armchairs on the spacious bridge of a super-cruiser; in-command and giving orders; exploring out in the middle of nowhere - but that was years ago. Then, everyone assured him he had a bright future, that he would make admiral one day - and for a while he {soared?}. He had made Lieutenant Commander twenty-five years ago, then commander, then captain. People had still reassured him then; told him that - given the officer-shortage - he’d get a promotion to the admiralty in five or six years. 
 
-Thirty years ago, he would have given anything to be in this position - in command of a supercruiser, out in the middle of nowhere - but that was years ago. Then, everyone assured him he had a bright future, that he would make admiral one day - and for a while he {soared?}. He made Lieutenant Commander twenty-five years ago, then commander, then captain. People still reassured him then; told him that - given the officer-shortage - he’d get a promotion to the admiralty in five or six years. 
+That was twelve years ago. He had done nothing of value since. His job had simply been to shuttle delegates here and there and catalogue nebulae, which, sure, was important, but not what he joined the navy for. It wasn’t the constant thrill of discovering new life and new civilisations that those officers that stood on the right side of the admiralty enjoyed. But just because he made one mistake; one error in judgement eleven years ago as a newly promoted captain, he was sidelined.
 
-That was twelve years ago. He had done nothing of value since; shuttling delegates here and there and cataloguing nebulae - and, sure, that was important, but it wasn’t what he joined the navy for. It wasn’t the constant thrill of discovering new life and new civilisations that those officers that stood on the right side of the admiralty enjoyed. But just because he made one mistake; one error in judgement eleven years ago, as a newly promoted captain, he was sidelined; cast aside. //possibly remove ‘cast aside’
+In the Cotton massacres, he stood up to his commanding officer - one Admiral Alexander Night - and refused to fire on walls of civilians who were doing nothing but protesting. And that - officially - was the right choice. Unofficially, however, that made him a traitor - someone who betrayed the naval brotherhood. 
 
-In the Cotton massacres, he stood up to his commanding officer - one Admiral Alexander Night - and refused to fire on walls of civilians who were doing nothing but protesting. And that - officially - was the right choice. Unofficially, however, that made him a traitor. That made him someone who could not be trusted; someone who betrayed the naval brotherhood. 
+In the years since, he had stood idly by as he watched other officers - some four or five years junior to him - get promoted to flag-rank; get command of various fleets, and do what he should have been doing - going out there and exploring. But time and again he was passed over. //remove this maybe?
 
-In the years since, he had stood idly by as he watched other officers - some four or five years junior to him - get promoted to flag-rank; get command of various fleets, and doing what he should have been doing - going out there and exploring. But time and again he was passed over. //remove this maybe?
-
-No matter. He was doing his job (charting the {system-name} nebula), and doing it well - even if that did mean reading sensationalist articles about how "antimatter usage kills"; how there were(for the second time this month) futile protests about military reform; or how warp drive “destabilises your neuronic energy”.
+No matter. He was doing his job (charting the {system-name} nebula), and doing it well - even if that did mean spending hours on end waiting for reports and passing time by reading sensationalist articles about how "antimatter usage kills"; how there were(for the second time this month) futile protests about military reform; or how warp drive “destabilises your neuronic energy”.
 
 Leaning back, he sighed in boredom, and closed his eyes.
 
 
 *
 
-Just over three-hundred light-years away, Admiral Alasdair Nocturne of the Astelans was celebrating his promotion aboard the AS Gibraltar.
-{IMPORTANT TODO: describe celebration. He feels tired at the end.}
+Just over three-hundred light-years away, Admiral Alasdair Cavalier of the Astelans was celebrating his promotion aboard the AS Gibraltar. It was not a party - Cavalier despised parties; they were irrational, loud, illogical things - but there was alcohol, and there was a loudspeaker, psionically pumping the listener’s music-of-choice full-blast into their head.
 
-The comms beeped, jolting him from his half-sleep. He groaned, and with great effort peeled open an eyelid - which saw that his friend, Santino, was going to get it.
+<A toast!> cried his friend, Santino.
 
+<Admiral Cavalier!> the room responded, sending waves of psionic pressure and disturbance everywhere. Cavalier was thankful that he had taken the precaution to install psionic insulators around the room.
+ 
+Raising his glass, Cavalier drank deeply from it, and made to go to a table to put it down.
+
+The comms beeped, jolting him from his half-sleep. He groaned, and with great effort peeled open an eyelid - and saw that his friend, Santino, was going to get it.
+[Important TODO: finish]
 The eyelid fell shut.
 
 
 CHAPTER ONE
-Six hours later, Admiral Nocturne stepped onto the bridge, dimming his visor as he did(he had a head-splitting migraine) - and was greeted by complete chaos.
+Six hours later, Admiral Cavalier stepped onto the bridge, dimming his visor as he did(he had a head-splitting migraine) - and was greeted by complete chaos.
 
 Clearly, something had happened. He remembered - vaguely - that someone had tried to reach him last night. But - no, that simply couldn’t be related - they would have tried harder...wouldn’t they?
 
 He took a deep breath, and strode calmly to the center of the bridge.
 
-<Report.>
+<Report,> he thought to his crew. //I don’t really like the feel of this, but I can’t think of anything better either/
 
 The bridge fell silent. 
 In every person’s mind, he sensed fear, nervousness, and a sense of disbelief; a sense of hoping that someone else would speak up.
 
 Of course, no-one did.
-//TODO: change from here; this is absolute rubbish
-He turned to his science officer(she feared nothing, and was always commited to integrity and the scientific truth), but to his surprise he found that even she was uneasy.
+//TODO: insert, Vesper Nocturne as science officer and friend
 
-<{Astelan-science-officer-name} - what the hell is going on?>
-
-She snapped to attention - again, odd: [CHANGE WORDING: in an effort to reduce tension when he was a new captain, he had made it so that attention was not neccesary]
-//stop
 <Sir, there is an inbound vessel. Initial measurements put its speed at approximately FTL-factor one-hundred, and we’ve - well, we’ve just confirmed it is, in-fact, travelling at one-hundred and thirty-two times lightspeed.>
 
-<Impossible - even we do not have ships that fast - let alone the rest of the cluster. The sensors must be broken!>
+<Impossible - even we do not have ships that fast - let alone the rest of the cluster. The sensors must be broken.>
 
 <That’s what I thought too, sir; but we’ve already checked and recalibrated the sensors.>
 
-Factor one-hundred was impossible. He knew that - everyone knew that. No current technology, nor even any theoretical technologies, considered that speed to be remotely achievable, even for weapons. But a ship, of all things, achieving that speed? That was simply absurd.
+No current technology, nor even any theoretical technologies, considered factor one-hundred to be remotely achievable, even for weapons. But a ship, of all things, achieving that speed? Simply absurd.
 
 Nonetheless, it seemed that the impossible - in this case - was possible.
 
@@ -73,7 +80,7 @@ Spike
 
 “Put it on.”
 
-“It’s text-only, sir. Its from one of our frigates; ISS Buccaneer, which was escorting a cargo convoy. They’ve been attacked by a Juthan ship. Apparently, it is headed in our direction at - and I quote - ‘Impossible speeds’, and Buccaneer requests we intercept it.”
+“It’s text-only, sir. It's from one of our frigates; ISS Buccaneer, which was escorting a cargo convoy. They’ve been attacked by a Juthan ship. Apparently, it is headed in our direction at - and I quote - ‘Impossible speeds’, and Buccaneer requests we intercept it.”
 
 “Reply with acknowledgement. Conn, sound General Quarters and plot an intercept course. Tactical, work with [replace: Astrology] and prepare a brief of the area of intercept and the enemy ship.“
 
@@ -81,9 +88,9 @@ Spike
 Chapter Two
 Two Hours Later
 
-Captain Spike - now dressed in full armor - strode towards the automatic doors of the briefing room.
+Captain Spike - now dressed in full armour - strode towards the automatic doors of the briefing room.
 
-He still couldn’t believe what was happening. Yes - the frigate being attacked was regrettable, but for once he was where the action was; for once, he had something important to do - even if it was a simple anti-piracy one.
+He felt his heart hammer; his cheeks flush - classic signs of excitement. Yes - the Bucaneer being attacked was regrettable, but for once he was where the action was; for once, he had something important to do - even if it was a simple anti-piracy mission.
 
 As he stepped towards the doors, he stretched out his hand - the microchipped gauntlet transmitted his access code - the doors opened.
 
@@ -95,14 +102,19 @@ His executive officer, Commander David Horne, replied. “Captain, we have confi
 
 “No-one, sir. That’s why it’s impossible.”
 
-The room fell silent, as the officers gathered waited for that information to sink into Spike’s mind, and for him to give instructions.
+The room fell silent, as Spike tried to process that information.
 
-That took a while. But, eventually, he spoke.
+Eventually, he spoke.
 
 “Commander, proceed with the departure in…” Spike checked his watch. “Twenty-four minutes. Engage cloak and sound yellow alert, and inform me when we arrive.
 Turning on his heel, he left the room, grinning to himself - finally, something exciting was happening!
-*One hour and twenty-four minutes later
-Captain Spike - now fully awake and refreshed - sat on the bridge, staring(along with everyone else)at the red dot darting towards them, as Horne gave updates on its ETA.
+
+
+*
+One-hour(and twenty-four minutes) later
+
+
+Captain Spike - now fully awake and refreshed - sat on the bridge, staring(along with everyone else)at the red dot darting towards them on the glowing, blue holographic display, as Horne gave updates on its ETA.
 
 "Ten minutes!"
 "Commander, order General Quarters," said Spike. Horne did so, and immediately the bridge was bathed in red light.
@@ -123,7 +135,11 @@ Captain Spike - now fully awake and refreshed - sat on the bridge, staring(along
 
 On the Manticore, every man and woman - whether officer, crewman, or civilian - waited with baited breath, as a bright-blue dot of plasma appeared in-front of the ship.
 
-The dot grew, expanding first into a ball, then a rift - and out of the rift came the Galico-class vessel Vengeance.
+The dot grew, expanding first into a ball, then a rift - and out of the rift came the two-hundred and fifty meters long golden-red Galico-class vessel Vengeance.
+
+Vengeance - like most Juthan raiders - had her name scrawled on the front of the ship in Galactic Common.
+Unlike most Juthan raiders, however, it was plated with red-silver armour-plating, and had two great scarlet-pink cannons attached to either side.
+
 
 Vengeance, Spike thought to himself. Vengeance was certainly an appropriate name for what was about to happen.
 
@@ -159,7 +175,7 @@ Spike took a deep breath. Sixty was certainly lower than anything he had ever se
 
 "Fire all tubes; spread delta!"
 
-With a clunk the doors protecting the torpedo bays opened, and within seconds the missiles and torpedoes poured out. Hydra-type missiles acted as decoys;  Scorpion-cluster munitions deployed their charges in beautiful concentric patterns, shielding the Impact torpedoes from any interceptor fire; and...
+With a clunk the doors protecting the torpedo bays opened, and within seconds the missiles and torpedoes poured out. Hydra-type missiles acted as decoys;  Scorpion-cluster munitions deployed their charges in beautiful concentric patterns, shielding the Impact torpedoes from any interceptor fire.
 
 "Hit!"
 The room erupted in cheers.
@@ -179,8 +195,6 @@ Suddenly, an alarm sounded.
 "Yes, sir."
 
 The missiles fired, silently this time. Spike let the constant thump of the cannons drown out all the other noise.
-
-What happened to the remaining sixty percent?
 
 Another flash of scarlet; another sickening crunch. Spike looked up.
 
@@ -225,7 +239,7 @@ Spike looked up. The Vengeance was already at light-speed, so accelerating would
 
 *
 
- Nocturne
+ Cavalier
 
 <Admiral, the vessel is accelerating. It appears to be damaged. We've also detected an Icaran ship pursuing it - the ISS Manticore, sir. It is also heavily damaged.>
 
@@ -239,17 +253,17 @@ Chapter Four
 
 One hour later
 
-The energy on the bridge was tense. Each and every officer felt nervous - and, this time, Nocturne joined them in that nervousness. Whatever that ship was, it was powerful - the state of the Manticore proved that.
+The energy on the bridge was tense. Each and every officer felt nervous - and, this time, Cavalier joined them in that nervousness. Whatever that ship was, it was powerful - the state of the Manticore proved that.
 
 <Admiral, the vessel is entering the system now.>
 
-The ball of plasma materialized; the rift appeared - and to the delight of every one of Admiral Nocturne's crew, the Vengeance flew - at top speed - straight into the Astelan minefield. 
+The ball of plasma materialized; the rift appeared - and to the delight of every one of Admiral Cavalier's crew, the Vengeance flew - at top speed - straight into the Astelan minefield. 
 
 The mines ripped it apart. After it had stopped as a result of the opposing force of the mine-explosions(taking an incredible fifteen twenty-kilogram fusion mines to do so), there was nothing left but debris.
 
 The bridge-crew stared in shock and disbelief.
 
-Finally, Admiral Nocturne spoke.
+Finally, Admiral Cavalier spoke.
 <Send a science-crew to recover whatever's left - if there's anything more than debris, which is…doubtful - and have the Phoenix clear the minefield.>
 
 
@@ -258,9 +272,16 @@ Spike
 
 Two-and-a-half hours later, the ISS Manticore - damaged, but alive - warped into the Astelans' system.
 
-"Captain, the Astelans - be careful. We don't want to start another war."
+Astelans were like centaurs, with a horse-body and a human-like torso. They were psionic - they did not have vocal cords, or eyes, ears, noses - any sense, for that matter, apart from dulled pain. Instead, they relied on a form of weak telepathy, allowing to project words into minds, and extract words from said minds.
 
-"I know, Commander, but we have as much claim to the wreckage as they do - arguably more. Besides, I'm not leaving until I've seen those cannons and those engines. How's the ship?"
+But, most powerfully, they had a form of psionic empathy, making them skillful negotiators, able to detect when they were lied to.
+
+Icarus had made the mistake of lying to the Astelans before, and it had cost them four-billion lives and two decades of fighting. As with most military inventions these days, the Astelans were the reason why the Manticore - fast, well armoured, designed to counter the Astelan Rapier-class ship - even existed, as part of an ongoing cold war going back to before the war; before even the Cotton Massacre; before he had even been born.
+They would have to be more careful now. 
+
+"Captain, the Astelans -"
+
+"We have to be careful, I know. But we have as much claim to the wreckage as they do - arguably, even more. Besides, I'm not leaving until I've seen those cannons and those engines. How's the ship?"
 
 "Repairs are underway, sir. And, sir - we've uncovered some information about whatever the Vengeance shot at us."
 
@@ -275,11 +296,11 @@ He smiled back.
 "Hail the Astelans, and announce our intention to participate in the salvage."
 Leaning back, Spike braced himself for the response.
 
-Nocturne's response came quickly.
+Cavalier's response came quickly.
 
 With a faint glow from their projection-dish, a psionic wave rolled out from the Astelan ship, AS Gibraltar. It intersected the Manticore, filling everyone in its path with a slight sense of warmth. Methodically, it leapt from mind-to-mind, searching for Captain Spike.
 
-Admiral Nocturne's response echoed in Spike's head, making him feel a sense of warmth - but yet, at the same time, a sense of being small: a sense of being but a cog in the universe's workings; a pawn in some grand game of chess.
+Admiral Cavalier's response echoed in Spike's head, making him feel a sense of warmth - but yet, at the same time, a sense of being small: a sense of being but a cog in the universe's workings; a pawn in some grand game of chess.
 
 He fought the feeling off.
 
@@ -304,7 +325,7 @@ With a wave of his hand, he opened the door.
 
 "Well - what does it say?"
 
-"That's the thing, sir. It's encrypted - probably why the Astelans didn't take it as well; they probably thought it was corrupted. But Ensign Jones recognized the pattern from one of our classified files."
+"That's the thing, sir. It's encrypted - probably why the Astelans didn't take it as well; they thought it was corrupted. But Ensign Jones recognized the pattern from one of our classified files."
 
 Spike chuckled, dryly.
 "I guess..all of the hours he spent daydreaming and reading up on old missions paid off."
@@ -313,7 +334,537 @@ Spike chuckled, dryly.
 
 Spike leaned forwards.
 "Do you think we'll get anything else, commander?"
+“Probably not, sir - we’ve taken samples of their armor and hull, and the engines, and everything we could possibly think of. If you give us a couple more hours to wrap up, we should be pretty-much done.”
+“Very well. Set a course for the homeworld, and as soon as you’re done with the wreckage engage at maximum cruising speed.”
+*
+Two weeks later
+WIth a faint, almost imperceptible whoosh, the hyperspace-plasma around the Manticore faded away, as it slowly glided into the Icaran system. With a soft beeping noise, the Manticore’s access code was transmitted to the Omega Battlestation, deactivating the massive minefield which shut off the Icaran Homeworld from the rest of the cluster.
+Impulse engines firing, the ISS Manticore - damaged, but alive - glided into the orbital drydocks of Icarus for repairs.
+The ship was unloaded. First, the supplies - unexploded munitions, food, batteries. Then, the dead.
+Spike watched the procession from the bridge.
+Coffins, urns, cloth-bags with little bits of human in them.
+Thirty-five in all.
+Then, the wounded. There were only two - a small reassurance that those dead died quickly.
 
+The crew disembarked, eager to go visit family, or go to a park - eager to do anything to take their minds off the events three weeks ago.
+
+*
+
+Cavalier
+Admiral Cavalier sat in his office, tail flicking anxiously.
+
+He had scoured the wreckage - not personally, of course, but his men did, and he was absolutely certain of their competency.
+
+Yet, the Icarans had after only seven hours - hardly any time for a salvage operation such as this. He’d sent his men to look again after they left, but they found nothing more.
+
+It was a race, now, aganst the Icarans, with the goal being to get those engines first, and prevent the other from doing so - that of all things was certain. 
+
+Logically, the Icarans could not have gotten any information. They had followed all procedure: logged every square-centimetre of the ship; taken anything movable - both their cargo-bays were filled with rubbish, now.
+
+But yet, he felt uneasy.
+
+No matter.
+He would have to work with what he got.[3431]
+
+Reaching forward, he picked up the report that the yeoman had left on his desk, and started reading.
+
+Skimming through the useless prattling in the first few pages, he quickly found what he was looking for: they had detected a very faint psionic radiation on the ship, which only occured in {random-other-system}.
+
+Mood considerably improved, he stepped out of his office onto the bridge.[3594]
+
+<Have the Second Fleet rendezvous with us, and then proceed to {random-other-system}. We have time - let us proceed cautiously.>
+
+*
+Spike
+Captain Des Spike sat on a bench just outside the construction-area of drydock one, waiting.
+
+He had been informed that the station commander, Captain Smith, would be “with him shortly” twenty minutes ago. But, he was used to it - being a “traitor”, Admirals, station-commanders(usually, only admirals commanded military stations; Smith must have done a sizable amount of ass-kissing to get here)[TODO: change], even ensigns - in essence, anyone who had any sort of plausible deniability for delay - delighted in making him wait for longer than necessary. Captain Smith was extraordinarily young - twenty-five years old - but, evidently, not exempt from this bias.
+
+
+Suddenly, he heard hurried footsteps to his left. Looking up, he saw a man in a Captain’s uniform - presumably, Smith - rushing towards him, and braced himself for the cold welcome to come.
+
+Captain Smith stuck out his hand, and Spike took it - expecting either a weak handshake - almost as if they feared to touch, or be associated with him - or an exceptionally strong one, as if they wanted to tell him that they were in control.
+
+Instead, to his shock, Smith’s handshake was enthusiastic and warm.
+
+“Captain Spike! We’ve been expecting you.”
+
+“Expecting me?”
+
+“Yes, sir - what with the revolution and whatnot, we expected you’d come back and help.”
+
+“Revolution?”
+
+“Haven’t you heard, sir? The president resigned, ‘cause of the protests, and the acting president fired half the admiralty. I just got told last week to take over James Fischer’s job.
+
+“Speaking of the president, sir, he’s asked to speak to you as soon as possible. Please, come with me.”
+
+
+[3835]
+
+Smith led the way to his office, and sat down.
+
+Spike sat across him.
+
+Smith typed something in on his computer - a relic at this point; Spike wondered why they hadn’t replaced it with a pad or a holographic display - and, with a wave of his hand, caused the glass door and windows to become opaque.
+
+With a few beeps, a holographic projection of acting president former senator {first-name} Cotton - the sister of {other-first-name} Cotton, the poster-girl of the suffering that the Cotton massacre had caused. - appeared.
+
+Hurriedly, Spike stood up.
+
+“Senat - I mean, president.”
+
+“Captain,” said president Cotton with a warm tone. “You know, you’ve always been a sort of [word] for me. My sister, of course, was always my greatest hero - but you - you’ve always been symbolic - both to me, and to everyone who supports me - of what can happen when someone stands up for the right thing.”
+
+Behind her, Smith nodded along.
+
+“Thank - thank you, “ said Spike, surprised for the second time. He had thought that she’d - understandably - have a hatred for everyone in the military.
+
+“As such, effective immediately, I am promoting you to full Admiral, and granting you - subject to congressional approval, of course - command of the Navy.”
+
+Admiral.
+Spike felt a sense of giddyness overwhelm him. But, something inside him felt off.
+
+Then, it hit him. They would not risk the {naval commander post name} - which would mean that, despite his position, he still would not be out exploring.
+
+“Thank you, ma’am, but with all due respect, I’d rather be out there, you know? Exploring. Doing good. Besides, there’s something going on with the Juthans, and I want to see that through, at least.”
+
+President Cotton [TODO: faint smile] “I thought you would say that. Vice Admiral, then; and you’ll be in-command of the Guardian, and the Third Expeditionary Fleet - permanently, if you want. But, at least, take command until the Manticore recovers. Jack Harland will be Admiral, then - he’s more diplomat than soldier, but he’s humble enough to take your advice. As for the Juthans, you’ll have everything you want at your disposal.”
+
+Grinning, Spike agreed. Finally, he had what he deserved - what he had been dreaming of all these years.
+
+“As long as I can bring my crew with me. “
+
+“Of course.”
+
+“Then, permanently will be just fine.”
+
+“Goodbye, Captain - or, should I say Admiral - Spike.”
+
+With a low hum, the holograph shut off.
+
+Spike took a deep breath.
+
+“Captain, where is the Guardian?”
+
+“She's here, sir - she’s just finished a refit.”
+
+“Get ahold of Commander Horne. We retrieved an encrypted navigation log - I want your best men working on decrypting it. Begin fueling the Third Expeditionary Fleet. I want to depart as soon as we know where we’re heading,” ordered Admiral Spike.
+
+Grinning, Smith threw him a salute.
+
+“Aye, Admiral.”
+*
+Cavalier
+
+With a burst of psionic energy, the Astelan Second Fleet descended from warp, in battle-formation: a ring of raptor-class scouts and zapper-class CIWS drones surrounding a smaller ring consisting of three rapier-class destroyers, eight minelayers, four second-class Khonarl-class carriers, and three third-class Khonarls, which in-turn surrounded a V-shape with three Third-class Stem ships at each the tips and a central diamond consisting of two second-class stem ships on the left and right, the Phoenix(a first-class Carrier) at forwards-position and the Gibraltar herself, being a first-class Stem ship), at the very center of the V-shape. Tens of various logistics ships were assembled in loose formation behind the V, ready to dispense supplies.
+
+Standing on the bridge of the Gibraltar, back straight and head held high, Admiral Cavalier was, of course, in command.
+
+This was his first time in command of an entire fleet. It felt good - tens of thousands ready to lay down their lives for him - but he knew he could simply not afford to screw this up.
+<What do the scouts report?> he asked his first officer. [TODO: replace this and below with name]
+<Two Juthan vessels, sir, in orbit around the planet. No defensive infrastructure; no cannons, or whatever. There is a mining colony - from the looks of it recently constructed - on the planet.>
+
+This had to be it. A mining colony for whatever ore powered the engines, a guarding-force of two vessels(not so weak that anyone could come by and take the colony, but not so strong that it would be noticed) - it made perfect sense.
+
+But yet his gut felt differently. This, it told him, was simply too good to be true. Too easy.
+He brushed it off.
+He had the entire Second Fleet behind him, twelve vessels in all. What could possibly happen?
+
+<Permission to prepare for a strike, sir?> enquired Nocturne. //Vesper Nocturne
+
+He gritted his teeth.
+
+<No. Let us try and minimise unnecessary death. Prepare a screening-ring, and charge main cannons as a precaution. There should be no need for any striking, carrier or otherwise. Open communications with the ships.>
+He could sense that Nocturne felt uneasy about this. But, he reasoned, firing would be too risky, and too violent - no Astelan liked killing, but he especially despised it.
+
+<Communications…open,>said the communications officer with a tone of slight surprise - Juthans were not famed for being exceptionally diplomatic.
+
+<Attention, Juthan vessels. This is Admiral Alasdair Cavalier of the Second Astelan Fleet. We’d like information, if you may, and samples pertaining to your apparent…super-engine.>
+
+The reply came quickly.
+
+“Admiral,” said a scruffy male voice with a tone of contempt, “What you need is down on the planet. But why should we let you have it?”
+<Perhaps we could negotiate - >
+
+“No, you cannot have it!” cried the voice. “Prepare to be destroyed!”
+
+Nocturne looked at him in an almost “I-told-you-so” look.
+
+Begrudgingly, he nodded.
+
+Simultaneously, both the Gibraltar and the {other astelan ship name} fired, the green fusion beams twinkling towards the two Juthan ships.
+
+Two minutes later, simultaneously, the Juthan ships were hit, and at once they disintegrated into nought but space-dust.
+
+He had won - not just this lacklustre engagement, but the race to the engines. The Astelans would prevail in the cold war.
+
+<Have the fleet set up standard system-defences,> he ordered. <Assemble a landing party - I’ll lead it down to the surface.>
+*
+Engines purring, the dropship slowed to a halt just above the surface of the planet - with over three-hundred men in the search-party, using shuttles that only had perhaps a four- or five- man capacity was simply impossible, and the decision had been made to use dropships, which had a much higher capacity of {capacity}.
+
+The doors to the various dropships hissed open, and out stepped the landing party - three-hundred men in total.
+
+<Fan out,> he ordered. <Search in groups of four.>
+
+*
+Spike
+Spike sat in his new office aboard the Guardian, waiting for news on the decryption of the navigation-log. He was alone on the ship - even though he was assured that it would be decrypted sometime between that afternoon and the next four days, he did not have the heart to recall his officers and his crew. They deserved the rest.
+
+The doorbell to his office rang.
+
+He waved his hand, expecting to see the door slide open.
+
+It did not. Apparently, even though this office was twice as large as his old one on the Manticore, it did not have any sort of remote-control. He’d have to speak to the engineers about installing a remote-control-sensor once the entire Juthan business was over.
+
+He walked over, and opened the door. 
+
+To his surprise, standing in front of him was Commander David Horne.
+
+“Commander! What a pleasant surprise,” Spike said warmly. “I thought you were on leave?”
+
+“I was, Captain” said Horne. “But they thought I should be the one to tell you this.”
+
+“Tell me what? “
+
+“They’ve decrypted the log, sir. Look, here - “ Horne handed him a piece of paper, and pointed to one of the lines near the top. “ - it mentions a system, {other system name}. I’ve never heard of it before, so there’s a good chance it's a new secret base or something of that sort.”
+
+“That’s very good news, commander. Recall the crew, and tell Captain Smith to hurry up preparing the fleet. Let us depart in…how long do you think?”
+
+“Six, maybe seven hours?”
+
+Spike nodded.
+“Let us depart in six hours, then.”
+Eying Spike’s rank-insignia, Horne gave him a smile.
+“Aye, Admiral.” 
+
+*
+Cavalier
+Admiral Cavalier paced in his office, anxious.
+The search had been much less of a slam-dunk than he hoped; after eight hours, he was forced to return most of the men - himself included - back to their regular stations, and maintain only thirty or so men down on the planet.
+
+Maybe his gut was right. Maybe…this was just too good to be true.
+
+The intercom buzzed.
+
+<Admiral, the scan results are ready.>
+Crossing his fingers, he pressed the talk button.
+<What do they say, Vesper?>
+<I’m afraid there’s no sign of any psionic signal remotely strong enough to be the material from the Vengeance’s engines, sir.>
+So it was too good to be true.
+<Is there any chance of the background psi-rad affecting the sensors?>
+<No, sir - the background radiation is nowhere near strong enough to mask a signal of that calibre.>
+Very well. This planet was a dead end - but they were not lost yet. There was still hope.
+<Have they uncovered anything else from the wreckage?>
+<No, sir, but the Icarans seem to have something - scouts report that they’re travelling at speed a few systems away. They seem to be headed towards the {other-system-name} system.>
+
+Hopefully, they would be able to catch up.
+
+<Plot a course to intercept the Icarans, and engage immediately at maximum speed,> he ordered.
+
+<But, sir, the mines, and the CIWS drones - we’ve used half our stores! We can still catch up if we spent a couple of hours picking them up - >
+
+<No. We engage now,> he said forcefully.
+
+<But the mines - >
+
+<Damn the mines!> he shouted. <Leave one of the logistic-ships behind if you must, but I will not sacrifice this victory for mines!>
+
+<Very well, Admiral.>
+[5393]
+
+*
+Spike
+The Third Expeditionary Fleet - consisting of eight Hawk-class destroyers, four Starbridge-class light cruisers, three Wanderer-class heavy strike cruisers, six Miran-class battlecruisers, four Morningstar-class super-heavy cruisers, and, finally, the Guardian herself - was cruising along when alarms went off on its forward scouts.
+
+Two minutes later, the preliminary reports were given to Admiral Spike.
+
+“Admiral, forward scouts report the Astelan Second Fleet is setting up defences in the system ahead of us.”
+
+Gut instinct told him to plough on; to charge in blindly and meet the Astelan Fleet in honourable decisive combat and bring home the victory wreathed in glory.
+
+But he was not just in command of one ship, now. He was in command of so many more. Tens of thousands of lives depended on him.
+
+“Can we go around?”
+
+“Negative, sir - too many gravity wells around.”
+
+“Then we proceed carefully. Send a couple of the unmanned sensor-drones ahead first - hopefully they have not had enough time to set up gravity generators.”
+
+He sat down, and took a deep breath.
+
+After a couple of minutes, he turned to Horne.
+
+“Status on the scouts, commander?”
+
+“The reports are just coming back, sir. Their minefield measures two-point-four kilometres in diameter around the FTL point, sir. No sign of gravity generators or even sensor-jammers.
+
+“Correct me if I’m mistaken, commander, but is two-point-four not half of their recommended minefield diameter for a fleet of this size?”
+
+“Yes, sir. Given what we know of Astelan minelayers, they should have had time to lay down many more mines.”
+
+“Is there a possibility they’re holding mines in reserve?”
+
+“It’s possible, sir, but improbable - their minelayers aren’t as armoured, or as fast - as far as we know - to be able to continuously operate under fire. The most they can take is an hour or so before needing repairs.”
+
+ “Nonetheless, if they are holding mines in reserve, we should strike fast, should we not?”
+
+“That would be…appropriate, sir.”
+
+“Very well, then. Prepare the FTL missiles, and ready the fleet.”
+
+
+*
+Cavalier
+<Admiral, the Icarans are hailing us.>
+<Open communications.>
+On Gibraltar's main screen appeared an image of Admiral Spike, in a suit of power-armor, helmet tucked under his arm.
+
+“Admiral Cavalier. We meet again. By any chance would you care to explain why you’ve blocked us off?”
+
+<If any competent commander was in command, Captain,> Cavalier replied, <He would know. But, nonetheless, since the Icarans are apparently stuck with you - >
+
+The communication-line cut off.
+
+Nocturne turned to him, and spoke quietly.
+<Alasdair, isn’t provoking them a bit dangerous? We haven’t got any - >
+<Mines?> said Admiral Cavalier with a tone of distaste. <There will be no need for mines.
+<Prepare the fleet. We will fight them, and we will win - with or without mines!>
+
+
+<Very well, Admiral,> said Nocturne with a strange look on her face.
+
+
+He disregarded the look. There were more important things to focus on now.
+
+With a few muffled flashes, the first of the Icaran FTL-volleys impacted the minefield.
+
+*
+Spike
+Spike watched the waves of missiles disappearing into hyperspace.
+
+It was an impressive sight - circles made of hundreds of Scorpion cluster-missiles first glowing blue, and then, as one, vanishing.
+
+A few short months ago, he would have been desperate for the volleys to end; for him to be able to take his fleet into direct combat, and stare his opponents in their metaphoric eyes as they exchanged fire.
+
+Now, he dreaded it.
+
+“Admiral,” reported the communications officer. “We’ve created an opening.”
+
+“Make preparations for the jump. Keep firing in the meantime; I want as much of that minefield gone as possible when we warp in. As soon as we do, all ships are to fire hydras and scorpions towards the weakest point in the minefield.”
+
+*
+Cavalier
+Cavalier watched as the Icarans warped in. 
+First, the light units; Starbridges and Hawks, firing their weapons as they did, causing the centre of the minefield to become one giant sensor-spot.
+Then, the spot grew, and grew - presumably, their heavier units.
+
+He smiled.
+The Icarans wouldn’t know what hit them.
+
+<All ships, fire!>
+
+Unenthusiastically, Nocturne repeated the order into a microphone.
+
+With a high-pitched humming noise, the Gibraltar fired, its green fusion-beam joining the other eight ones, and penetrating deep into the sensor-spot.
+
+Nothing.
+
+But, of course, that was to be expected - they could not see into the spot, especially not with Icaran cloaks acting against them, and so could not tell if they hit. 
+
+Everything was under control.
+
+*
+Spike
+“Captain, they’ve begun to fire.”
+
+“Keep the ships moving. They shouldn’t be able to see us clearly. How close are we to breaking through?”
+
+“Two-hundred meters, sir.”
+
+“Keep firing. Have one of the hawks close to CIWS range on one of the weak spots as well; that should expedite the process.”
+
+“Yes, sir.”
+
+*
+Cavalier
+
+<Admiral, they’re nearly through.>
+<How much do we have left?>
+<Two-hundred meters, sir.>
+<Keep me updated. Have the carriers deploy a strike wing.>
+
+Cavalier gritted his teeth.
+
+<One-hundred fifty metres, sir!>
+
+<Do we have any more mines?>
+
+<None, sir - we left our stores - >
+
+<At {system name}, I know!> he snapped.
+
+<One-hundred metres!>
+
+<Send in the strike-wing.>
+
+<Fifty!>
+
+<Prepare for full reverse thrust.>
+
+<They’re through, sir.>
+
+<Full reverse! Fire all cannons, and send in the strike-wing, > he yelled, eyes ablaze with unnatural fury.
+
+Nocturne did so.
+
+Cavalier watched as the Icaran bubble shields flared under the green laser-fire; as their CIWS filled the space in-front of his carrier-wing with blue plasma; as scorpion-missiles exploding against fighter-cockpits created pretty pyrotechnics displays.
+
+This fleet was built to stop the Icarans. And he had absolute confidence in it.
+
+*
+Spike
+“Captain, we’re taking fire! Blossom reports her bubble shielding has already been overwhelmed.”
+
+“How strong are the fighter-waves, on average?”
+
+“Twenty Bombers, sir, and fifty or so fighter-escorts.”
+
+“I have a plan, commander,” Spike said to Horne. “But I want your opinion on it. What if we diverted half of our firing-capacity towards assembling a counter-volley, delayed triggering the missile-thrusters, and let the CIWS shoot into a higher concentration of inbound missiles?”
+
+“It’ll be risky,” replied Horne. “But I trust your instinct.”
+
+Tapping a few buttons on his panel, Horne relayed the order.
+
+“How much more damage are we taking, Commander?” asked Spike anxiously.
+
+“About twenty or twenty-five percent, sir. The concentration of the enemy missiles seems to be working in our favour, just like you predicted.”
+
+Spike let out a sigh of relief he didn’t realise he was holding back.
+
+“Wait, sir - they’ve picked that up. They’re targeting our CIWS ships exclusively, now.”
+
+His heart dropped, slightly. He still held onto hope that his counter-volley would give them a bit of respite from the inbound waves; respite enough to allow them to reduce the speed at which the gap between them and the Astelan Fleet increased.
+
+“We’ve lost the Blossom! “ cried the tactical officer.
+
+Spike looked up, just in time to see the final chain of explosions that engulfed the Blossom.
+
+He hadn’t seen any escape-pods depart.
+
+Hopefully, that was just because they fired before he looked up.
+
+“Survivors?”
+
+“None detected so far.”
+
+His heart sank - of course there hadn’t been survivors. It was foolish to delude himself into thinking there could have been any.
+
+“Status on the counter-strike?”
+
+“Engaging thrusters now, sir.”
+
+Spike watched as the counter-volley - consisting solely of scorpions to try and take out the Astelans’ screening-drones - flew off towards the Astelans.
+
+“The Excelsior’s been disabled!”
+
+Spike turned his head towards the port view-screen.
+
+Thankfully, this time, he saw the red glow of escape-pods firing off from hatches.
+
+“How many?” 
+
+Horne understood what he was asking.
+
+“Four-thousand five-hundred crewmen have been recovered. There’s no trace of the remaining five-hundred.”
+
+This was his fault. He had diverted defensive firepower; taken the risk. And this was the cost. The entire crew of the Blossom - some three-thousand fine crewmen and officers, and the five-hundred from the Excelsior.
+
+“It’s not your fault, " said Horne.
+
+Spike smiled. Horne knew him too well.
+
+“We’ve taken out half of their screen, sir!”
+
+Finally, some good news.
+
+“How fast are they replenishing?”
+
+“They’re replenishing at - sir, they’re - they’re not deploying any more screening-drones!”
+
+What?
+
+Spike shook his head in disbelief.
+
+“No, that’s - they wouldn’t be that daft. Check again.”
+
+“Confirmed, sir - there’s no effort to reinforce the screening-net.
+
+“How large was it to start with?”
+
+“Less than half of their estimated total capacity, Admiral”
+
+Horne suggested, “Admiral, we should fire now, with everything we’ve got. They’re weak; defenceless - we should take this opportunity and strike!”
+
+Logically, that was true. 
+But abandoning defensive fire would mean risking the lives of so many on the smaller, lesser-defended ships.
+
+Spike shook his head. He could not be that selfish.
+
+“Continue with half of our firepower, but press forwards at maximum speed.”
+
+*
+Cavalier
+Admiral Cavalier watched as the Icaran volley pressed towards his fleet.
+
+<Composition?> He asked Nocturne.
+
+<Scorpions, Hydras, and Impacts, sir.>
+
+Impacts? What arrogant fools they were to fire Impact-torpedoes on their second volley!
+
+<Push the screen forward.>
+
+<Yes, Admiral,> Nocturne replied. 
+
+The view-screen glowed blue, as the tiny thrusters of the thousands of screening-drones ignited, and pushed said drones forward. Already, Hundreds of missiles and CIWS drones clashed at the edge of the screening-field, producing bright flashes of green and red.
+
+<Status on the drones?>
+
+<Twenty percent remaining, sir. But their Hydra missiles are working: the screen is leaking.>
+
+Alarmed, Cavalier looked up. The leaks were evident, even to the naked eye - glowing red impact torpedoes - and even some scorpions - were starting to fly past the screening-drones into the core of the fleet itself. While they were - at the moment - still intercepted by CIWS units mounted on the ships themselves, but the nature of Astelan ships meant that if even one missile impacted a ship, the ship would likely be, at best, disabled - at worst, completely destroyed.
+
+<What about the Icarans?>
+
+<They’ve lost eight screening vessels, sir: Six Hawks, and two Mirans. We’ve damaged one of the Morningstars as well, but their screen is still holding.>
+
+<Conn, hard about.>
+
+<Shall I inform the rest of the fleet, sir?> asked Nocturne.
+
+<No, > replied Cavalier without hesitation. <Only the Phoenix. Order the rest of the fleet to cease reverse thrust and hold their ground.>
+
+<But, sir - they’ll be destroyed! We can’t withstand the Icarans in close-quarters.>
+
+<A necessary evil, > Cavalier answered. <Set a course for {other system}.>
+
+<Sir - we’ve always been able to outspeed the Icarans. Why not take the entire fleet with us?>
+
+<No. It’s too risky.>
+
+<But they’ll be - >
+
+<Let them be destroyed! > shouted Cavalier. <What matters now is that we get that engine, and we win the war.>
+
+Nocturne protested. 
+<But, sir - >
+
+Cavalier yelled, <Do it, commander!>
+
+Visibly taken aback, Nocturne nodded to the communications officer.
+
+Let her be afraid. This would win them the war.
 oswald font
 
 
